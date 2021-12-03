@@ -1,5 +1,5 @@
-<script>
-import DaySelectionBar from "$lib/sidebar/DaySelectionBar.svelte";
+<script lang="ts">
+    import DaySelectionBar from "$lib/sidebar/DaySelectionBar.svelte";
 
 </script>
 
