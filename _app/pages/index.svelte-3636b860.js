@@ -1,1 +1,0 @@
-import{S as t,i as e,s as a}from"../chunks/vendor-bee86594.js";async function r(){return{status:302,redirect:"aoc2021/day01/part1"}}class u extends t{constructor(s){super();e(this,s,null,null,a,{})}}export{u as default,r as load};
