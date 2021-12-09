@@ -6,8 +6,10 @@ const config = {
 	// Consult https://github.com/sveltejs/svelte-preprocess
 	// for more information about preprocessors
 	preprocess: preprocess(),
-
 	kit: {
+		paths: {
+			base: '/Advent-of-Code-2021-Svelte'
+		},
 		adapter: adapter({
 			pages: 'build',
 			assets: 'build',

@@ -1,7 +1,13 @@
 <script lang="ts">
     import DaySelectionBar from "$lib/sidebar/DaySelectionBar.svelte";
+    import { base } from '$app/paths';
 
 </script>
+
+<svelte:head>
+    <link rel="icon" href="{base}/favicon.png" />
+    <link rel="stylesheet" href="{base}/normalize.css"/>
+</svelte:head>
 
 <div id="main-grid">
     <div id="sidebar"><DaySelectionBar /></div>

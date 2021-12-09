@@ -1,44 +1,8 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
-<br/>a
+<script context="module">
+    export async function load() {
+        return {
+            status: 302,
+            redirect: "aoc2021/day01/part1"
+        };
+    }
+</script>
