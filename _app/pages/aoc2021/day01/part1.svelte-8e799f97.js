@@ -1,4 +1,4 @@
-import{S as $,i as x,s as b,t as c,e as _,k as d,g as f,c as A,n as h,f as i,L as m,d as l,R as v}from"../../../chunks/vendor-bd031b77.js";const w=[{text:`199
+import{S as $,i as x,s as _,t as c,e as b,k as A,g as f,c as d,n as h,f as i,K as m,d as l,Q as v}from"../../../chunks/vendor-bee86594.js";const w=[{text:`199
 200
 208
 210
@@ -2009,4 +2009,4 @@ import{S as $,i as x,s as b,t as c,e as _,k as d,g as f,c as A,n as h,f as i,L a
 8750
 8753
 8755
-`;class j extends S{constructor(){super(w,y)}part1(t){throw new Error("Method not implemented.")}part2(t){throw new Error("Method not implemented.")}}function D(n){let t,s,r,u=n[0].examples.length+"",o,p;return{c(){t=c("Day 1 "),s=_("br"),r=d(),o=c(u),p=c(" examples available")},l(e){t=f(e,"Day 1 "),s=A(e,"BR",{}),r=h(e),o=f(e,u),p=f(e," examples available")},m(e,a){i(e,t,a),i(e,s,a),i(e,r,a),i(e,o,a),i(e,p,a)},p:m,i:m,o:m,d(e){e&&l(t),e&&l(s),e&&l(r),e&&l(o),e&&l(p)}}}function E(n,t,s){const r=new j;return v("solutionObject").update(o=>r),[r]}class C extends ${constructor(t){super();x(this,t,E,D,b,{solution:0})}get solution(){return this.$$.ctx[0]}}export{C as default};
+`;class j extends S{constructor(){super(w,y)}part1(t){throw new Error("Method not implemented.")}part2(t){throw new Error("Method not implemented.")}}function D(n){let t,s,r,u=n[0].examples.length+"",o,p;return{c(){t=c("Day 1 "),s=b("br"),r=A(),o=c(u),p=c(" examples available")},l(e){t=f(e,"Day 1 "),s=d(e,"BR",{}),r=h(e),o=f(e,u),p=f(e," examples available")},m(e,a){i(e,t,a),i(e,s,a),i(e,r,a),i(e,o,a),i(e,p,a)},p:m,i:m,o:m,d(e){e&&l(t),e&&l(s),e&&l(r),e&&l(o),e&&l(p)}}}function E(n,t,s){const r=new j;return v("solutionObject").update(o=>r),[r]}class C extends ${constructor(t){super();x(this,t,E,D,_,{solution:0})}get solution(){return this.$$.ctx[0]}}export{C as default};

@@ -1,1 +1,0 @@
-import{S as a,i as r,s as i,t as u,g as l,f as c,L as n,d,R as f}from"../../../chunks/vendor-bd031b77.js";function p(o){let t;return{c(){t=u("not yet")},l(e){t=l(e,"not yet")},m(e,s){c(e,t,s)},p:n,i:n,o:n,d(e){e&&d(t)}}}function m(o){return f("solutionObject").update(e=>null),[]}class _ extends a{constructor(t){super();r(this,t,m,p,i,{})}}export{_ as default};
